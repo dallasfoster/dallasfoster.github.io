@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dallas Foster"
-  avatar           : "profile.png"
+  avatar           : "FormalPicturesDallasFoster_Crop.jpg"
   bio              : "Postdoctoral Research Associate, MIT"
   location         : "Cambridge, MA"
   employer         : "Massachusetts Institute of Technology"
@@ -210,6 +210,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        overlay_color: "#000"
+        overlay_image: "/images/chukchi_.jpg"
+        caption: "Phytoplankton bloom in the Chukchi Sea, June 18, 2018. credit: NASA Earth Observatory"
   # _teaching
   - scope:
       path: ""
