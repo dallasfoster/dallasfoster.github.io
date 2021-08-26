@@ -1,6 +1,5 @@
 ---
 permalink: /
-layout: archive
 author_profile: true
 title: " "
 excerpt: "Data, Dynamics & Stochastics"
