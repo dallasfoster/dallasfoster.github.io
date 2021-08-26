@@ -80,10 +80,11 @@ analytics:
 
 # Site Author
 author:
+  site             : "https://dallasfoster.github.io"
   name             : "Dallas Foster"
   avatar           : "FormalPicturesDallasFoster_Crop.jpg"
   bio              : "Postdoctoral Research Associate, MIT"
-  location         : "Cambridge, MA"
+  location         : 
   employer         : "Massachusetts Institute of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=p_BEk5sAAAAJ&hl=en"
