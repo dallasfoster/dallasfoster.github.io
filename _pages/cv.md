@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, University of Utah, 2016
+* B.S. in Political Science, University of Utah, 2016
+* Ph.D in Mathematics, Oregon State University, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021- : Postdoctoral Research Assistant
+  * Massachusetts Institute of Technology
+  * Uncertainty Quanfication for large-scale systems
+  * Supervisor: Youssef Marzouk
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-2021: Graduate Research Assistant
+  * National Center for Atmospheric Research
+  * Probabilistic AI modeling of oceanographic systems
+  * Supervisor: DJ Gagne, Dan Whitt
+
+* 2018: Graduate Research Assistant
+  * Los Alamos National Laboratory
+  * Bayesian modeling of global temperature dynamics
+  * Supervisor:  Nathan Urban
+
+* 2016-2021: Graduate Research Assistant
+  * Oregon State University
+  * Data Assimilation for Hyperbolic Systems
+  * Advisor: Juan Restrepo
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -48,12 +50,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
