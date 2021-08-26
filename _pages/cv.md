@@ -5,6 +5,10 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+header:
+  overlay_color: "#000"
+  overlay_image: chukchi.jpg
+  caption: "Phytoplankton bloom in the Chukchi Sea, June 18, 2018. credit: NASA Earth Observatory"
 ---
 
 {% include base_path %}
