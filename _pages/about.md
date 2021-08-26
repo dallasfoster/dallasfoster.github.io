@@ -2,7 +2,7 @@
 permalink: /
 layout: single
 author_profile: true
-title: ""
+title: " "
 excerpt: "Data, Dynamics & Stochastics"
 author_profile: true
 redirect_from: 
