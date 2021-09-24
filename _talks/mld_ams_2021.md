@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/mld_ams_2021
 venue: "101st American Meteorological Society Annual Meeting"
-date: 2021-01
+date: 2021-01-12
 location: "Virtual"
 ---

@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/dlf_agu_2020
 venue: "2020 Fall Meeting of the American Geophysical Union"
-date: 2020-12
+date: 2020-12-14
 location: "San Francisco, California"
 ---
 

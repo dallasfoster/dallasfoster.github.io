@@ -1,10 +1,10 @@
 ---
-title: "A Bayesian approach to regional decadal predictability: Sparse parameter estimation in high-dimensional linear inverse models of high-latitude sea surface temperature variability}, \textbf{D. Foster"
+title: "Bayesian Parameter Estimation in Linear Inverse Models: An Application to High-Latitude Decadal Sea Surface Temperature Variability"
 collection: talks
 type: "Talk"
 permalink: /talks/lim_agu_2019
 venue: "2019 Fall Meeting of the American Geophysical Union"
-date: 2019-12
+date: 2019-12-09
 location: "San Francisco, CA"
 ---
 
