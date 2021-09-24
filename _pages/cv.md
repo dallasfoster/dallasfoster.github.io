@@ -22,7 +22,7 @@ Work experience
 ======
 * 2021- : Postdoctoral Research Assistant
   * Massachusetts Institute of Technology
-  * Uncertainty Quanfication for large-scale systems
+  * Center for the Exascale Simulation of Materials in Extreme Environments
   * Supervisor: Youssef Marzouk
 
 * 2020-2021: Graduate Research Assistant

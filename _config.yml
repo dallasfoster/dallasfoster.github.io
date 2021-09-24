@@ -83,7 +83,7 @@ author:
   site             : "https://dallasfoster.github.io"
   name             : "Dallas Foster"
   avatar           : "FormalPicturesDallasFoster_Crop.jpg"
-  bio              : "Postdoctoral Research Associate, MIT"
+  bio              : "<a href="files/Dallas Foster CV.pdf">Postdoctoral Research Associate, MIT<\a>"
   location         : 
   employer         : "Massachusetts Institute of Technology"
   pubmed           : 
@@ -260,7 +260,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
