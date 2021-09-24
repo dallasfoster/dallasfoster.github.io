@@ -83,7 +83,7 @@ author:
   site             : "https://dallasfoster.github.io"
   name             : "Dallas Foster"
   avatar           : "FormalPicturesDallasFoster_Crop.jpg"
-  bio              : <a href="files/Dallas Foster CV.pdf">Postdoctoral Research Associate, MIT</a>
+  bio              : <a href="files/Dallas Foster CV.pdf" target="_blank" rel="noopener noreferrer">Postdoctoral Research Associate, MIT</a>
   location         : 
   employer         : "Massachusetts Institute of Technology"
   pubmed           : 

@@ -15,8 +15,8 @@ header:
 
 Bio
 ======
-My name is Dallas Foster and I am a postdoctoral research assistant with the <a href="https://acdl-web.mit.edu/"> Aerospace Computational Design Laboratory </a> at the Massachusetts Institute of Technology. 
+My name is Dallas Foster and I am a postdoctoral research assistant with the <a href="https://computing.mit.edu/cesmix/" target="_blank" rel="noopener noreferrer">Center for Exascale Simulation of Materials in Extreme Environments</a> and <a href="https://acdl-web.mit.edu/" target="_blank" rel="noopener noreferrer"> Aerospace Computational Design Laboratory </a> at the Massachusetts Institute of Technology. 
 
-I am interested in problems at the intersection of Data-driven Inference, Stochastic Dynamics, and Earth Science. My research has straddled Data Assimilation, Deep Learning, and Bayesian Inference.
+I am interested in problems at the intersection of Data-driven Inference, Stochastic Dynamics, and Earth Science. My research straddles Data Assimilation, Bayesian and Probabilistic Modeling, Dynamical Systems, and Deep Learning.
 
 
